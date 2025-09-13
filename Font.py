@@ -1,6 +1,8 @@
+#!/usr/bin/python3
 # coding = UTF-8
 '''
 一个可以自由操控字体的Python库
+from: shufeng2012
 '''
 
 class Font:
@@ -174,5 +176,6 @@ class Font:
         return_string = ansi + string
         if reset == True:                   # 是否重置
             return_string += self.STOP
+
 
         print(return_string)
