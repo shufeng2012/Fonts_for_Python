@@ -1,7 +1,7 @@
 # Font for Python
 > [My home](https://github.com/shufeng2012)
 
-![github](https://img.shields.io/badge/github-shufeng2012-white?logo=github) ![python](https://img.shields.io/badge/python-3.15.5-yellow?logo=python)<br>
+![github](https://img.shields.io/badge/github-shufeng2012-white?logo=github) ![python](https://img.shields.io/badge/python-3.15.5-yellow?logo=python) ![release](https://img.shields.io/badge/release-v1.2-green)<br>
 ~~My Engligh is terribly!😣~~<br>
 🏳‍🌈This is a package that you can use some fonts like bold and colors **(not colorama)**.
 # Use Note👇
